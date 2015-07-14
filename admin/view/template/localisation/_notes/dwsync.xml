@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="country_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612863333400" remote="130753806000000000" Dst="0" />
+<file name="country_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612863563536" remote="130753806000000000" Dst="0" />
+<file name="currency_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612863733646" remote="130753806000000000" Dst="0" />
+<file name="currency_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612866315438" remote="130753806000000000" Dst="0" />
+<file name="geo_zone_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612866745653" remote="130753806000000000" Dst="0" />
+<file name="geo_zone_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612867095903" remote="130753806000000000" Dst="0" />
+<file name="language_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612869337374" remote="130753806000000000" Dst="0" />
+<file name="language_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612869527511" remote="130753806000000000" Dst="0" />
+<file name="length_class_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612869947776" remote="130753806000000000" Dst="0" />
+<file name="length_class_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612872339385" remote="130753806000000000" Dst="0" />
+<file name="location_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612872459512" remote="130753806000000000" Dst="0" />
+<file name="location_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612872649581" remote="130753806000000000" Dst="0" />
+<file name="order_status_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612875051172" remote="130753806000000000" Dst="0" />
+<file name="order_status_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612875381402" remote="130753806000000000" Dst="0" />
+<file name="return_action_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612875411425" remote="130753806000000000" Dst="0" />
+<file name="return_action_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612878283346" remote="130753806000000000" Dst="0" />
+<file name="return_reason_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612878573570" remote="130753806000000000" Dst="0" />
+<file name="return_reason_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612878623586" remote="130753806000000000" Dst="0" />
+<file name="return_status_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612881405403" remote="130753806000000000" Dst="0" />
+<file name="return_status_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612881635573" remote="130753806000000000" Dst="0" />
+<file name="stock_status_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612881905735" remote="130753806000000000" Dst="0" />
+<file name="stock_status_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612884547493" remote="130753806000000000" Dst="0" />
+<file name="tax_class_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612884927753" remote="130753806000000000" Dst="0" />
+<file name="tax_class_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612885177930" remote="130753806000000000" Dst="0" />
+<file name="tax_rate_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612888169910" remote="130762643400000000" Dst="0" />
+<file name="tax_rate_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612888360033" remote="130762637400000000" Dst="0" />
+<file name="weight_class_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612888420080" remote="130753806000000000" Dst="0" />
+<file name="weight_class_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612892022470" remote="130753806000000000" Dst="0" />
+<file name="zone_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130776612892162590" remote="130753806000000000" Dst="0" />
+<file name="zone_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130801038080709663" remote="130801038000000000" Dst="0" />
+<file name="lienketlink_class_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130801270968563051" remote="130801270800000000" Dst="0" />
+<file name="lienketlink_class_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130801274431731289" remote="130801274400000000" Dst="0" />
+<file name="type_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130801295219066477" remote="130801294800000000" Dst="0" />
+<file name="type_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130801292550190682" remote="130801292400000000" Dst="0" />
+<file name="accessby_form.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130802082947342454" remote="130802082600000000" Dst="0" />
+<file name="accessby_list.tpl" server="dev.novaonidc.vn//public_html/backup/vietthanhpro/" local="130802084402908980" remote="130802084400000000" Dst="0" />
+</dwsync>
